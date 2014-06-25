@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo{
+color:#FFFFFF;
+font-size: 35px;;
+width:250px;
+margin: 15px ;
+float :left;
+}
+#registe{
+float:right;
+	color:#3B5998;
+	font-size:16px;
+}
+
+	.re input,option{
+	height:20px;
+	
+	}
+	.field{
+	height:30px;
+	}
+.essent
+{
+	background-color:#CCCCCC;
+	font-size:14px;
+	padding:10px;
+border:solid 1px #333333;
+}
+.search{
+	background-color:#FFFFCC;
+	font-size:12px;
+	border:solid 1px #333333;;
+	margin:10px;
+	}
+
+.style11 {font-size: 10px}
+#buttons{
+float:right;
+}
+
+	#status{
+	margin:10px;
+	color:#FF0000;
+	}
+#getid{
+width=800px;
+margin:5px 10px;
+border:solid 1px #333333;
+background-color:#99CC66;
+
+}
+#status{
+color:#FF0000;
+}
+.style14 {font-size: 12px}
+.style15 {color: #666666}
